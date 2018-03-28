@@ -6,4 +6,4 @@
 	url = https://github.com/Siqi-L/riscv-boom/testchipip.git
 [submodule "boom"]
 	path = boom
-	url = https://github.com/Siqi-L/cs152-abe-lab3.git
+	url = https://github.com/Siqi-L/riscv-boom.git
